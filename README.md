@@ -28,7 +28,7 @@ Requirements gathering · stakeholder management · data-driven decision making 
 ## 📂 Projects
 
 ### 1. EV Market Expansion Analysis (Washington State)  
-**Stack:** `Python` · `Pandas` · `K-Means Clustering` · `Tableau`
+**Stack:** `Python` · `Pandas` · `K-Means Clustering` · `PowerBi`
 
 - **Objective:** Validate which factors truly drive **EV adoption** and prioritize levers that unlock the next wave of growth.  
 - **Execution:** Engineered a **“Twin Engines”** framework (economic potential + charging density) and used **K-Means clustering** on licensing, infrastructure, and demographic data to segment Washington counties.  
