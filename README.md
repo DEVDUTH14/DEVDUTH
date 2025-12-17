@@ -4,8 +4,8 @@ Business Analyst and Physicist transitioning rigorous research methods into **ac
 Applies **hypothesis-driven analysis** and **advanced modeling** to uncover hidden inefficiencies, optimize operations, and scale growth.  
 Currently an **Intern at NoBroker**, using data to refine sales funnels and streamline processes.  
 
-**Tech stack:** `SQL` · `Python` · `Power BI` · `Machine Learning`  
-**Strengths:** ETL pipelines · dashboards · predictive modeling · experimentation
+**Tech stack:** `SQL` · `Python` · `Power BI` · `Machine Learning`· `Advanced Excel`
+**Strengths:** ETL pipelines · dashboards · predictive modeling · experimentation· Pricing · Trend analysis · Business acumen 
 
 ---
 
