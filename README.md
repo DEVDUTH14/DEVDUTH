@@ -11,17 +11,17 @@ I am a Business Analyst and Physicist transitioning rigorous academic research m
 
 #PROJECTS
 
-1.** EV Market Expansion Analysis (Washington State)** | Python, K-Means Clustering, Tableau
+1.** EV Market Expansion Analysis (Washington State)** | Python, K-Means Clustering, Tableau.
       Objective: Validated business hypotheses regarding EV adoption drivers using state licensing and infrastructure data.
       Execution: Engineered a "Twin Engines" framework using K-Means clustering to segment counties by economic potential and infrastructure readiness.
       Outcome: Disproved affordability/range as primary barriers; identified that charging infrastructure deficits were throttling growth in 16 high-potential counties.
       
-2.**Stock Price Prediction Engine (Banking Sector)** | Python, LSTM Neural Networks, Technical Analysis
+2.**Stock Price Prediction Engine (Banking Sector)** | Python, LSTM Neural Networks, Technical Analysis.
        Objective: Determined the optimal feature set for predicting stock prices across Indian and US banking sectors (e.g., HDFC, JPMorgan).
        Execution: Built and trained LSTM models to compare "Trend/Momentum" indicators against "Volatility/Volume" sets over a 4-year dataset.
        Outcome: Proved "Trend" indicators delivered superior accuracy (lowest MSE) for 75% of banks; recommended specific signal strategies for trading platforms.
 
-3**.Optimization of Climate Prediction Models** | Deep Learning (GRU/ANN), NASA CERES Data
+3**.Optimization of Climate Prediction Models** | Deep Learning (GRU/ANN), NASA CERES Data.
     Objective: Tested if predicting correlated climate variables (Liquid Water & Ice Water Paths) jointly improves accuracy vs. independent models.  
     Execution: Developed Single-Task and Multi-Task learning architectures using GRU and ANN models on satellite data.
     Outcome: The Multi-Task GRU model achieved the best performance (MAE 0.0272), significantly outperforming single-task baselines by leveraging variable correlation.
