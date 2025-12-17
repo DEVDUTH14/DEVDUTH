@@ -12,9 +12,9 @@ I am a Business Analyst and Physicist transitioning rigorous academic research m
 #PROJECTS
 
 1.** EV Market Expansion Analysis (Washington State)** | Python, K-Means Clustering, Tableau.
-      Objective: Validated business hypotheses regarding EV adoption drivers using state licensing and infrastructure data.
-      Execution: Engineered a "Twin Engines" framework using K-Means clustering to segment counties by economic potential and infrastructure readiness.
-      Outcome: Disproved affordability/range as primary barriers; identified that charging infrastructure deficits were throttling growth in 16 high-potential counties.
+     ** Objective: Validated business hypotheses regarding EV adoption drivers using state licensing and infrastructure data.**
+     ** Execution: Engineered a "Twin Engines" framework using K-Means clustering to segment counties by economic potential and infrastructure readiness.**
+  **    Outcome: Disproved affordability/range as primary barriers; identified that charging infrastructure deficits were throttling growth in 16 high-potential counties.**
       
 2.**Stock Price Prediction Engine (Banking Sector)** | Python, LSTM Neural Networks, Technical Analysis.
        Objective: Determined the optimal feature set for predicting stock prices across Indian and US banking sectors (e.g., HDFC, JPMorgan).
