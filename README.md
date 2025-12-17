@@ -1,36 +1,52 @@
-# DEVDUTH
-I am a Business Analyst and Physicist transitioning rigorous academic research methods into actionable business strategies. By applying hypothesis testing and complex modeling to real-world challenges, I help organizations identify hidden inefficiencies and scale revenue. Currently, I am an Intern at NoBroker, using data to optimize sales funnels and streamline operations. My technical toolkit includes SQL, Python, Power BI, and Machine Learning, allowing me to build robust ETL pipelines and predictive models that drive decision-making.
+# 👋 DEVDUTH
 
+Business Analyst and Physicist transitioning rigorous research methods into **actionable, revenue-focused strategy**.  
+Applies **hypothesis-driven analysis** and **advanced modeling** to uncover hidden inefficiencies, optimize operations, and scale growth.  
+Currently an **Intern at NoBroker**, using data to refine sales funnels and streamline processes.  
 
-# Key Impact
-**Revenue Growth & Strategy**: Identified bottlenecks causing 48% revenue loss and recommended solutions to recover ₹4 Cr in value; spearheaded benchmarking that revealed a ₹50-150 Cr market opportunity.
+**Tech stack:** `SQL` · `Python` · `Power BI` · `Machine Learning`  
+**Strengths:** ETL pipelines · dashboards · predictive modeling · experimentation
 
-**Process Improvement & Automation**: Reduced data processing time by 99% at CSIR-National Physical Laboratory by automating preprocessing workflows with Python and SQL.
+---
 
-**Data-Driven Modeling**: Engineered a property valuation model increasing accuracy by 12%, directly yielding ₹50 Lakhs through improved negotiation power
+## 🔑 Key Impact
 
-# PROJECTS
+- **Revenue Growth & Strategy**  
+  Identified bottlenecks causing **48% revenue loss** and recommended fixes to recover **₹4 Cr**, while benchmarking a **₹50–150 Cr** untapped market opportunity.
 
-1.**EV Market Expansion Analysis (Washington State)** | Python, K-Means Clustering, Tableau.
+- **Process Improvement & Automation**  
+  Reduced data processing time by **99%** at **CSIR–National Physical Laboratory** by automating preprocessing workflows with **Python and SQL**.
 
-**Objective:** Validated business hypotheses regarding EV adoption drivers using state licensing and infrastructure data.
+- **Data-Driven Modeling**  
+  Built a property valuation model that improved pricing accuracy by **12%**, directly enabling **₹50 Lakhs** in additional value through stronger negotiation leverage.
 
-**Execution:** ngineered a "Twin Engines" framework using K-Means clustering to segment counties by economic potential and infrastructure readiness.
+---
 
-**Outcome:** Disproved affordability/range as primary barriers; identified that charging infrastructure deficits were throttling growth in 16 high-potential counties.
-      
-2.**Stock Price Prediction Engine (Banking Sector)** | Python, LSTM Neural Networks, Technical Analysis.
+## 📂 Projects
 
-**Objective:** Determined the optimal feature set for predicting stock prices across Indian and US banking sectors (e.g., HDFC, JPMorgan).
+### 1. EV Market Expansion Analysis (Washington State)  
+**Stack:** `Python` · `Pandas` · `K-Means Clustering` · `Tableau`
 
-**Execution:** Built and trained LSTM models to compare "Trend/Momentum" indicators against "Volatility/Volume" sets over a 4-year dataset.
+- **Objective:** Validate which factors truly drive **EV adoption** and prioritize levers that unlock the next wave of growth.  
+- **Execution:** Engineered a **“Twin Engines”** framework (economic potential + charging density) and used **K-Means clustering** on licensing, infrastructure, and demographic data to segment Washington counties.  
+- **Outcome:** Disproved affordability and range as primary barriers; identified **16 high-potential counties** where **charging infrastructure gaps** are the main bottleneck to EV growth.
 
-**Outcome:** Proved "Trend" indicators delivered superior accuracy (lowest MSE) for 75% of banks; recommended specific signal strategies for trading platforms.
+---
 
-3**Optimization of Climate Prediction Models** | Deep Learning (GRU/ANN), NASA CERES Data.
+### 2. Stock Price Prediction Engine (Banking Sector)  
+**Stack:** `Python` · `LSTM` · `Technical Indicators` · `Time Series`
 
-**Objective**: Tested if predicting correlated climate variables (Liquid Water & Ice Water Paths) jointly improves accuracy vs. independent models.  
+- **Objective:** Determine the **optimal technical indicator set** for forecasting stock prices in Indian and US banking stocks (HDFC, SBI, JPM, BAC).  
+- **Execution:** Trained **LSTM models** on a 4-year OHLCV dataset to compare a **Trend/Momentum** bundle (RSI, SMA, MACD, Stochastic) vs a **Volatility/Volume** set (ADX, ATR, OBV, Bollinger Bands).  
+- **Outcome:** Showed that **trend/momentum indicators** achieved **lower MSE/MAE** and better accuracy for ~75% of banks, guiding **feature selection and signal design** for trading strategies.
 
-**Execution**: Developed Single-Task and Multi-Task learning architectures using GRU and ANN models on satellite data.
-    
-**Outcome**: The Multi-Task GRU model achieved the best performance (MAE 0.0272), significantly outperforming single-task baselines by leveraging variable correlation.
+---
+
+### 3. Optimization of Climate Prediction Models  
+**Stack:** `GRU` · `ANN` · `Python` · `NASA CERES`
+
+- **Objective:** Test whether **multi-task learning** (jointly predicting Liquid Water Path and Ice Water Path) outperforms single-task models for key climate variables.  
+- **Execution:** Built **Single-Task vs Multi-Task** architectures using **GRU and ANN** on NASA CERES satellite data, with robust preprocessing and hyperparameter tuning.  
+- **Outcome:** The **Multi-Task GRU** achieved the best performance (**MAE ≈ 0.0272**), significantly beating single-task baselines by exploiting the **strong correlation** between LWP and IWP.
+
+---
