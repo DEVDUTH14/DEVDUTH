@@ -10,8 +10,6 @@ Currently an **Intern at NoBroker**, using data to refine sales funnels and stre
 **Strengths (Business Analyst):**  
 Requirements gathering · stakeholder management · data-driven decision making · business process improvement · hypothesis-driven analysis · KPI design & tracking · A/B testing & experimentation · storytelling with data
 
----
-
 ## 🔑 Key Impact
 
 - **Revenue Growth & Strategy**  
