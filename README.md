@@ -9,7 +9,7 @@ I am a Business Analyst and Physicist transitioning rigorous academic research m
 
 **Data-Driven Modeling**: Engineered a property valuation model increasing accuracy by 12%, directly yielding ₹50 Lakhs through improved negotiation power
 
-#PROJECTS
+# PROJECTS
 
 1.**EV Market Expansion Analysis (Washington State)** | Python, K-Means Clustering, Tableau.
 
@@ -22,10 +22,15 @@ I am a Business Analyst and Physicist transitioning rigorous academic research m
 2.**Stock Price Prediction Engine (Banking Sector)** | Python, LSTM Neural Networks, Technical Analysis.
 
 **Objective:** Determined the optimal feature set for predicting stock prices across Indian and US banking sectors (e.g., HDFC, JPMorgan).
-Execution: Built and trained LSTM models to compare "Trend/Momentum" indicators against "Volatility/Volume" sets over a 4-year dataset.
-Outcome: Proved "Trend" indicators delivered superior accuracy (lowest MSE) for 75% of banks; recommended specific signal strategies for trading platforms.
 
-3**.Optimization of Climate Prediction Models** | Deep Learning (GRU/ANN), NASA CERES Data.
-    Objective: Tested if predicting correlated climate variables (Liquid Water & Ice Water Paths) jointly improves accuracy vs. independent models.  
-    Execution: Developed Single-Task and Multi-Task learning architectures using GRU and ANN models on satellite data.
-    Outcome: The Multi-Task GRU model achieved the best performance (MAE 0.0272), significantly outperforming single-task baselines by leveraging variable correlation.
+**Execution:** Built and trained LSTM models to compare "Trend/Momentum" indicators against "Volatility/Volume" sets over a 4-year dataset.
+
+**Outcome:** Proved "Trend" indicators delivered superior accuracy (lowest MSE) for 75% of banks; recommended specific signal strategies for trading platforms.
+
+3**Optimization of Climate Prediction Models** | Deep Learning (GRU/ANN), NASA CERES Data.
+
+**Objective**: Tested if predicting correlated climate variables (Liquid Water & Ice Water Paths) jointly improves accuracy vs. independent models.  
+
+**Execution**: Developed Single-Task and Multi-Task learning architectures using GRU and ANN models on satellite data.
+    
+**Outcome**: The Multi-Task GRU model achieved the best performance (MAE 0.0272), significantly outperforming single-task baselines by leveraging variable correlation.
